@@ -1,0 +1,5 @@
+.env
+.venv
+.idea
+error.log
+test_image.png
