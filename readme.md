@@ -10,7 +10,7 @@ Generates visual to-do list images from text using **GigaChat Lite** LLM.
 
 ## ⚙️ Требования | Requirements
 - Python 3.9+ (проверено на 3.10.12/3.12.3 Linux)
-- API-ключ [GigaChat](https://developers.sber.ru/portal/products/gigachat)
+- API-ключ ([GigaChat](https://developers.sber.ru/portal/gigachat-and-api))
 - Токен Telegram-бота ([@BotFather](https://t.me/BotFather))
 - `pip install -r req.txt`
 
